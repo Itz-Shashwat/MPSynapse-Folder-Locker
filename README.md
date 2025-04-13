@@ -2,7 +2,6 @@
 
 A sleek and secure Python-based folder locker and unlocker built with `Tkinter` and `cryptography`. Encrypt and compress your folders into `.safe` files, and decrypt them back with ease.
 
-![App Screenshot](https://github.com/Itz-Shashwat/MPSynapse-Folder-Locker/assets/your_screenshot_path) <!-- Optional: replace with a screenshot of your app -->
 
 ---
 
